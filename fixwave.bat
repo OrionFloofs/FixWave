@@ -22,7 +22,7 @@ set "RAW_BAT=https://raw.githubusercontent.com/OrionFloofs/FixWave/refs/heads/ma
 
 for /f "delims=" %%D in ('powershell -NoProfile -Command "[Environment]::GetFolderPath('Desktop')"') do set "DESKTOP=%%D"
 set "NEWFILE=%DESKTOP%\FixWave.bat"
-set "LATEST_VER="
+set "LATEST_VER=1.0.0"
 
 for /f "usebackq delims=" %%V in (`
   powershell -NoProfile -Command ^
