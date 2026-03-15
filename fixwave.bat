@@ -16,7 +16,7 @@ set "WAIT=[...]"
 
 set "line===================================================================================================="
 
-set "CURRENT_VER=0.0.1"
+set "CURRENT_VER=1.0.0"
 set "RAW_VER=https://raw.githubusercontent.com/OrionFloofs/FixWave/refs/heads/main/version.txt"
 set "RAW_BAT=https://raw.githubusercontent.com/OrionFloofs/FixWave/refs/heads/main/fixwave.bat"
 
